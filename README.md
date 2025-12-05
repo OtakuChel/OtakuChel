@@ -2,7 +2,7 @@
 
 ## 😄 About me
 
-✌️ My name is Amir, I am 22 years old. I work as a programmer, trying out different technologies.<br>
+✌️ My name is Amir, I am 23 years old. I work as a programmer, trying out different technologies.<br>
 <br>
 🔭 I'm currently working as a frontend developer <br>
 <br>
